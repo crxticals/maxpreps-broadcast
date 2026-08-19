@@ -1,0 +1,11 @@
+week,date_display,opponent,opponent_upper,home_away,vs_at,result,result_text,score_us,score_them,record_before,is_league,is_live,contest_id
+,FRI AUG 21 · 7:00 PM,Irvine,IRVINE,HOME,VS,,,,,,False,False,86346e1a-2a14-4dfa-a6a9-836d72e0d8a1
+,FRI AUG 28 · 7:00 PM,El Segundo,EL SEGUNDO,HOME,VS,,,,,,False,False,d682501c-3a6d-4e0d-839b-58bcc1ca74f2
+,FRI SEP 4 · 7:00 PM,Brea Olinda,BREA OLINDA,AWAY,AT,,,,,,False,False,15765579-324e-48db-bddc-c7fdfd326d94
+,FRI SEP 11 · 7:00 PM,Woodbridge,WOODBRIDGE,HOME,VS,,,,,,False,False,9c6b2be6-2109-4bf6-a7f8-93c0878ef46b
+,FRI SEP 18 · 7:00 PM,Portola,PORTOLA,AWAY,AT,,,,,,False,False,f33d0d88-45b5-43ad-ba8b-bd47517f736e
+,FRI OCT 2 · 7:00 PM,Marina,MARINA,AWAY,AT,,,,,,False,False,cb8c9246-43af-4622-b90c-5fc6af1c0397
+,FRI OCT 9 · 7:00 PM,Pacifica,PACIFICA,HOME,VS,,,,,,False,False,cd3f3c80-7d4e-4bb0-a01a-bfe1f56c40b9
+,FRI OCT 16 · 7:00 PM,Laguna Hills,LAGUNA HILLS,AWAY,AT,,,,,,False,False,46e06235-b857-4ffb-a7b8-c493f9112e52
+,FRI OCT 23 · 7:00 PM,Kennedy,KENNEDY,HOME,VS,,,,,,False,False,19950e75-bfaf-49c5-8c85-3d7cae1c4b60
+,FRI OCT 30 · 7:00 PM,Cypress,CYPRESS,HOME,VS,,,,,,False,False,33bcc8a7-b98f-43df-8629-babf15141f3b

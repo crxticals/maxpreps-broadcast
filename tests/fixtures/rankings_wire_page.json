@@ -1,0 +1,45 @@
+{
+  "pageProps": {
+    "rankingsListData": {
+      "totalCount": 415,
+      "year": "26-27",
+      "lastUpdated": "2026-08-17T06:00:00",
+      "fullRankingsLink": "https://www.maxpreps.com/ca/football/rankings/1/",
+      "rankings": [
+        {
+          "rank": 1,
+          "movement": 0,
+          "rating": 78.4,
+          "strength": 41.2,
+          "overall": "1-0",
+          "schoolName": "Mater Dei",
+          "schoolFormattedName": "Mater Dei (Santa Ana, CA)",
+          "stateCode": "CA",
+          "teamLink": "https://www.maxpreps.com/ca/santa-ana/mater-dei-monarchs/football/26-27/schedule/"
+        },
+        {
+          "rank": 2,
+          "movement": 1,
+          "rating": 74.1,
+          "strength": 39.9,
+          "overall": "1-0",
+          "schoolName": "St. John Bosco",
+          "schoolFormattedName": "St. John Bosco (Bellflower, CA)",
+          "stateCode": "CA",
+          "teamLink": "https://www.maxpreps.com/ca/bellflower/st-john-bosco-braves/football/26-27/schedule/"
+        },
+        {
+          "rank": 367,
+          "movement": -3,
+          "rating": 12.3,
+          "strength": 20.1,
+          "overall": "0-0",
+          "schoolName": "Northwood",
+          "schoolFormattedName": "Northwood (Irvine, CA)",
+          "stateCode": "CA",
+          "teamLink": "https://www.maxpreps.com/ca/irvine/northwood-timberwolves/football/26-27/schedule/"
+        }
+      ]
+    }
+  }
+}

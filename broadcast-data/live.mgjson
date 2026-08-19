@@ -1,0 +1,1268 @@
+{
+  "version": "MGJSON2.0.0",
+  "creator": "maxpreps-broadcast",
+  "dynamicSamplesPresentB": false,
+  "dynamicDataInfo": {
+    "useTimecodeB": false,
+    "utcInfo": {
+      "precisionLength": 3,
+      "isGMT": true
+    }
+  },
+  "dataOutline": [
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Name",
+      "matchName": "home_name",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 9,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 9,
+        "str": "Northwood"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Name Upper",
+      "matchName": "home_name_upper",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 9,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 9,
+        "str": "NORTHWOOD"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Name",
+      "matchName": "away_name",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 6,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 6,
+        "str": "Irvine"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Name Upper",
+      "matchName": "away_name_upper",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 6,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 6,
+        "str": "IRVINE"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Abbr",
+      "matchName": "home_abbr",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 3,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 3,
+        "str": "NHS"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Abbr",
+      "matchName": "away_abbr",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 3,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 3,
+        "str": "IHS"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Score",
+      "matchName": "home_score",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 1,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 0,
+        "str": ""
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Score",
+      "matchName": "away_score",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 1,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 0,
+        "str": ""
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Score Line",
+      "matchName": "score_line",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 13,
+          "maxDigitsInStrLength": 2,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 13,
+        "str": "NHS \u2013 \u2014 IHS \u2013"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Status",
+      "matchName": "status",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 9,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 9,
+        "str": "Scheduled"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Status Upper",
+      "matchName": "status_upper",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 9,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 9,
+        "str": "SCHEDULED"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Period Display",
+      "matchName": "period_display",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 1,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 0,
+        "str": ""
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Clock Display",
+      "matchName": "clock_display",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 20,
+          "maxDigitsInStrLength": 2,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 20,
+        "str": "FRI AUG 21 \u00b7 7:00 PM"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Down Distance Display",
+      "matchName": "down_distance_display",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 1,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 0,
+        "str": ""
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Possession Side",
+      "matchName": "possession_side",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 1,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 0,
+        "str": ""
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Kickoff Display",
+      "matchName": "kickoff_display",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 20,
+          "maxDigitsInStrLength": 2,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 20,
+        "str": "FRI AUG 21 \u00b7 7:00 PM"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Is Live",
+      "matchName": "is_live",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 5,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 5,
+        "str": "false"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Updated At",
+      "matchName": "updated_at",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 32,
+          "maxDigitsInStrLength": 2,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 32,
+        "str": "2026-08-19T05:21:19.904825+00:00"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Fetched At",
+      "matchName": "fetched_at",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 32,
+          "maxDigitsInStrLength": 2,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 32,
+        "str": "2026-08-19T05:07:56.919983+00:00"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Source Tier",
+      "matchName": "source_tier",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 8,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 8,
+        "str": "json_api"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Cache State",
+      "matchName": "cache_state",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 6,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 6,
+        "str": "cached"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Data Age Seconds",
+      "matchName": "data_age_seconds",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 3,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 803.0,
+              "max": 803.0
+            },
+            "legal": {
+              "min": 802.0,
+              "max": 804.0
+            }
+          }
+        }
+      },
+      "value": 803.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Stale",
+      "matchName": "stale",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 5,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 5,
+        "str": "false"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Warning Count",
+      "matchName": "warning_count",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 0.0,
+              "max": 0.0
+            },
+            "legal": {
+              "min": -1.0,
+              "max": 1.0
+            }
+          }
+        }
+      },
+      "value": 0.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Primary Hex",
+      "matchName": "home_primary_hex",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 7,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 7,
+        "str": "#022C66"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Primary R",
+      "matchName": "home_primary_r",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 2.0,
+              "max": 2.0
+            },
+            "legal": {
+              "min": 1.0,
+              "max": 3.0
+            }
+          }
+        }
+      },
+      "value": 2.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Primary G",
+      "matchName": "home_primary_g",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 2,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 44.0,
+              "max": 44.0
+            },
+            "legal": {
+              "min": 43.0,
+              "max": 45.0
+            }
+          }
+        }
+      },
+      "value": 44.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Primary B",
+      "matchName": "home_primary_b",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 3,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 102.0,
+              "max": 102.0
+            },
+            "legal": {
+              "min": 101.0,
+              "max": 103.0
+            }
+          }
+        }
+      },
+      "value": 102.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Primary R01",
+      "matchName": "home_primary_r01",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 4,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 0.0078,
+              "max": 0.0078
+            },
+            "legal": {
+              "min": -0.9922,
+              "max": 1.0078
+            }
+          }
+        }
+      },
+      "value": 0.0078
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Primary G01",
+      "matchName": "home_primary_g01",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 4,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 0.1725,
+              "max": 0.1725
+            },
+            "legal": {
+              "min": -0.8275,
+              "max": 1.1724999999999999
+            }
+          }
+        }
+      },
+      "value": 0.1725
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Primary B01",
+      "matchName": "home_primary_b01",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 4,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 0.4,
+              "max": 0.4
+            },
+            "legal": {
+              "min": -0.6,
+              "max": 1.4
+            }
+          }
+        }
+      },
+      "value": 0.4
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Primary Text",
+      "matchName": "home_primary_text",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 7,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 7,
+        "str": "#FFFFFF"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Secondary Hex",
+      "matchName": "home_secondary_hex",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 7,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 7,
+        "str": "#FFFFFF"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Secondary R",
+      "matchName": "home_secondary_r",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 3,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 255.0,
+              "max": 255.0
+            },
+            "legal": {
+              "min": 254.0,
+              "max": 256.0
+            }
+          }
+        }
+      },
+      "value": 255.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Secondary G",
+      "matchName": "home_secondary_g",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 3,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 255.0,
+              "max": 255.0
+            },
+            "legal": {
+              "min": 254.0,
+              "max": 256.0
+            }
+          }
+        }
+      },
+      "value": 255.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Secondary B",
+      "matchName": "home_secondary_b",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 3,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 255.0,
+              "max": 255.0
+            },
+            "legal": {
+              "min": 254.0,
+              "max": 256.0
+            }
+          }
+        }
+      },
+      "value": 255.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Secondary R01",
+      "matchName": "home_secondary_r01",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 1.0,
+              "max": 1.0
+            },
+            "legal": {
+              "min": 0.0,
+              "max": 2.0
+            }
+          }
+        }
+      },
+      "value": 1.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Secondary G01",
+      "matchName": "home_secondary_g01",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 1.0,
+              "max": 1.0
+            },
+            "legal": {
+              "min": 0.0,
+              "max": 2.0
+            }
+          }
+        }
+      },
+      "value": 1.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Secondary B01",
+      "matchName": "home_secondary_b01",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 1.0,
+              "max": 1.0
+            },
+            "legal": {
+              "min": 0.0,
+              "max": 2.0
+            }
+          }
+        }
+      },
+      "value": 1.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Secondary Text",
+      "matchName": "home_secondary_text",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 7,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 7,
+        "str": "#000000"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Primary Hex",
+      "matchName": "away_primary_hex",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 7,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 7,
+        "str": "#00824B"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Primary R",
+      "matchName": "away_primary_r",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 0.0,
+              "max": 0.0
+            },
+            "legal": {
+              "min": -1.0,
+              "max": 1.0
+            }
+          }
+        }
+      },
+      "value": 0.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Primary G",
+      "matchName": "away_primary_g",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 3,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 130.0,
+              "max": 130.0
+            },
+            "legal": {
+              "min": 129.0,
+              "max": 131.0
+            }
+          }
+        }
+      },
+      "value": 130.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Primary B",
+      "matchName": "away_primary_b",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 2,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 75.0,
+              "max": 75.0
+            },
+            "legal": {
+              "min": 74.0,
+              "max": 76.0
+            }
+          }
+        }
+      },
+      "value": 75.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Primary R01",
+      "matchName": "away_primary_r01",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 0.0,
+              "max": 0.0
+            },
+            "legal": {
+              "min": -1.0,
+              "max": 1.0
+            }
+          }
+        }
+      },
+      "value": 0.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Primary G01",
+      "matchName": "away_primary_g01",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 4,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 0.5098,
+              "max": 0.5098
+            },
+            "legal": {
+              "min": -0.49019999999999997,
+              "max": 1.5098
+            }
+          }
+        }
+      },
+      "value": 0.5098
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Primary B01",
+      "matchName": "away_primary_b01",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 4,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 0.2941,
+              "max": 0.2941
+            },
+            "legal": {
+              "min": -0.7059,
+              "max": 1.2941
+            }
+          }
+        }
+      },
+      "value": 0.2941
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Primary Text",
+      "matchName": "away_primary_text",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 7,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 7,
+        "str": "#FFFFFF"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Secondary Hex",
+      "matchName": "away_secondary_hex",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 7,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 7,
+        "str": "#046DFF"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Secondary R",
+      "matchName": "away_secondary_r",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 4.0,
+              "max": 4.0
+            },
+            "legal": {
+              "min": 3.0,
+              "max": 5.0
+            }
+          }
+        }
+      },
+      "value": 4.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Secondary G",
+      "matchName": "away_secondary_g",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 3,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 109.0,
+              "max": 109.0
+            },
+            "legal": {
+              "min": 108.0,
+              "max": 110.0
+            }
+          }
+        }
+      },
+      "value": 109.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Secondary B",
+      "matchName": "away_secondary_b",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 3,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 255.0,
+              "max": 255.0
+            },
+            "legal": {
+              "min": 254.0,
+              "max": 256.0
+            }
+          }
+        }
+      },
+      "value": 255.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Secondary R01",
+      "matchName": "away_secondary_r01",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 4,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 0.0157,
+              "max": 0.0157
+            },
+            "legal": {
+              "min": -0.9843,
+              "max": 1.0157
+            }
+          }
+        }
+      },
+      "value": 0.0157
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Secondary G01",
+      "matchName": "away_secondary_g01",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 4,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 0.4275,
+              "max": 0.4275
+            },
+            "legal": {
+              "min": -0.5725,
+              "max": 1.4275
+            }
+          }
+        }
+      },
+      "value": 0.4275
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Secondary B01",
+      "matchName": "away_secondary_b01",
+      "dataType": {
+        "type": "number",
+        "numberStringProperties": {
+          "pattern": {
+            "digitsInteger": 1,
+            "digitsDecimal": 0,
+            "isSigned": false
+          },
+          "range": {
+            "occuring": {
+              "min": 1.0,
+              "max": 1.0
+            },
+            "legal": {
+              "min": 0.0,
+              "max": 2.0
+            }
+          }
+        }
+      },
+      "value": 1.0
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Secondary Text",
+      "matchName": "away_secondary_text",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 7,
+          "maxDigitsInStrLength": 1,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 7,
+        "str": "#000000"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Home Logo Path",
+      "matchName": "home_logo_path",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 49,
+          "maxDigitsInStrLength": 2,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 49,
+        "str": "broadcast-data\\assets\\mascot_55fd6b5a36b689d5.png"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Away Logo Path",
+      "matchName": "away_logo_path",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 49,
+          "maxDigitsInStrLength": 2,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 49,
+        "str": "broadcast-data\\assets\\mascot_60c9962ed7db459a.png"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Contest Id",
+      "matchName": "contest_id",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 36,
+          "maxDigitsInStrLength": 2,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 36,
+        "str": "86346e1a-2a14-4dfa-a6a9-836d72e0d8a1"
+      }
+    },
+    {
+      "objectType": "dataStatic",
+      "displayName": "Exported At",
+      "matchName": "exported_at",
+      "dataType": {
+        "type": "paddedString",
+        "paddedStringProperties": {
+          "maxLen": 32,
+          "maxDigitsInStrLength": 2,
+          "eventMarkerB": false
+        }
+      },
+      "value": {
+        "length": 32,
+        "str": "2026-08-19T05:21:19.904935+00:00"
+      }
+    }
+  ]
+}

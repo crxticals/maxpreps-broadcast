@@ -1,0 +1,326 @@
+{
+  "status": "success",
+  "data": {
+    "team": {
+      "schoolName": "Northwood",
+      "schoolFormattedName": "Northwood (Irvine, CA)",
+      "schoolNameAcronym": "NHS",
+      "schoolCity": "Irvine",
+      "stateCode": "CA",
+      "schoolAddress": "4515 Portola Pkwy",
+      "schoolZipCode": "92620",
+      "schoolPhone": "(949) 936-7200",
+      "schoolMascot": "Timberwolves",
+      "schoolMascotUrl": "https://image.maxpreps.io/school-mascot/8/a/d/8ad7fb66-314d-456c-b977-842f95a13025.gif?width=1024&height=1024",
+      "schoolColor1": "022C66",
+      "schoolColor2": "FFFFFF",
+      "schoolColor3": "737272",
+      "sportSeasonName": "Boys Football Varsity Fall 26-27",
+      "formattedSportSeasonName": "Football",
+      "gender": "Boys",
+      "sport": "Football",
+      "season": "Fall",
+      "level": "Varsity",
+      "year": "26-27",
+      "coachName": "Stephen Barbee",
+      "teamSize": 11,
+      "leagueName": "Iota",
+      "sectionName": "Southern Section",
+      "sectionDivisionName": "Division 6",
+      "stateName": "California",
+      "schoolAssociationGoverningBodyAbbreviation": "CIF",
+      "teamId": "8ad7fb66-314d-456c-b977-842f95a13025",
+      "sportSeasonId": "2286cd80-c46d-4739-8dd1-92a67ca8daa7",
+      "canonicalUrl": "https://www.maxpreps.com/ca/irvine/northwood-timberwolves/football/"
+    },
+    "contests": [
+      {
+        "date": "2026-08-21T19:00:00",
+        "home_team": {
+          "school_name": "Northwood",
+          "city": "Irvine",
+          "state": "CA",
+          "result_text": "W 24-14",
+          "result": "W",
+          "score": 24,
+          "is_home": true
+        },
+        "away_team": {
+          "school_name": "Irvine",
+          "city": "Irvine",
+          "state": "CA",
+          "result_text": "L 24-14",
+          "result": "L",
+          "score": 14,
+          "is_home": false
+        },
+        "opponent": "Irvine",
+        "result": ""
+      },
+      {
+        "date": "2026-08-28T19:00:00",
+        "home_team": {
+          "school_name": "Northwood",
+          "city": "Irvine",
+          "state": "CA",
+          "result_text": "L 27-10",
+          "result": "L",
+          "score": 10,
+          "is_home": true
+        },
+        "away_team": {
+          "school_name": "El Segundo",
+          "city": "El Segundo",
+          "state": "CA",
+          "result_text": "W 27-10",
+          "result": "W",
+          "score": 27,
+          "is_home": false
+        },
+        "opponent": "El Segundo",
+        "result": ""
+      },
+      {
+        "date": "2026-09-04T19:00:00",
+        "home_team": {
+          "school_name": "Northwood",
+          "city": "Irvine",
+          "state": "CA",
+          "result_text": "W 31-28",
+          "result": "W",
+          "score": 31,
+          "is_home": false
+        },
+        "away_team": {
+          "school_name": "Brea Olinda",
+          "city": "Brea",
+          "state": "CA",
+          "result_text": "L 31-28",
+          "result": "L",
+          "score": 28,
+          "is_home": true
+        },
+        "opponent": "Brea Olinda",
+        "result": ""
+      },
+      {
+        "date": "2026-09-11T19:00:00",
+        "home_team": {
+          "school_name": "Northwood",
+          "city": "Irvine",
+          "state": "CA",
+          "result_text": "T 21-21",
+          "result": "T",
+          "score": 21,
+          "is_home": true
+        },
+        "away_team": {
+          "school_name": "Woodbridge",
+          "city": "Irvine",
+          "state": "CA",
+          "result_text": "T 21-21",
+          "result": "T",
+          "score": 21,
+          "is_home": false
+        },
+        "opponent": "Woodbridge",
+        "result": ""
+      },
+      {
+        "date": "2026-09-18T19:00:00",
+        "home_team": {
+          "school_name": "Northwood",
+          "city": "Irvine",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": false
+        },
+        "away_team": {
+          "school_name": "Portola",
+          "city": "Irvine",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": true
+        },
+        "opponent": "Portola",
+        "result": ""
+      },
+      {
+        "date": "2026-10-02T19:00:00",
+        "home_team": {
+          "school_name": "Northwood",
+          "city": "Irvine",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": false
+        },
+        "away_team": {
+          "school_name": "Marina",
+          "city": "Huntington Beach",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": true
+        },
+        "opponent": "Marina",
+        "result": ""
+      },
+      {
+        "date": "2026-10-09T19:00:00",
+        "home_team": {
+          "school_name": "Northwood",
+          "city": "Irvine",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": true
+        },
+        "away_team": {
+          "school_name": "Pacifica",
+          "city": "Garden Grove",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": false
+        },
+        "opponent": "Pacifica",
+        "result": ""
+      },
+      {
+        "date": "2026-10-16T19:00:00",
+        "home_team": {
+          "school_name": "Northwood",
+          "city": "Irvine",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": false
+        },
+        "away_team": {
+          "school_name": "Laguna Hills",
+          "city": "Laguna Hills",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": true
+        },
+        "opponent": "Laguna Hills",
+        "result": ""
+      },
+      {
+        "date": "2026-10-23T19:00:00",
+        "home_team": {
+          "school_name": "Northwood",
+          "city": "Irvine",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": true
+        },
+        "away_team": {
+          "school_name": "Kennedy",
+          "city": "La Palma",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": false
+        },
+        "opponent": "Kennedy",
+        "result": ""
+      },
+      {
+        "date": "2026-10-30T19:00:00",
+        "home_team": {
+          "school_name": "Northwood",
+          "city": "Irvine",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": true
+        },
+        "away_team": {
+          "school_name": "Cypress",
+          "city": "Cypress",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": false
+        },
+        "opponent": "Cypress",
+        "result": ""
+      },
+      {
+        "date": "2026-10-31T19:00:00",
+        "home_team": {
+          "school_name": "Northwood",
+          "city": "Irvine",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": true
+        },
+        "away_team": {
+          "school_name": "Halloween Prep",
+          "city": "Anaheim",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": false
+        },
+        "opponent": "Halloween Prep",
+        "result": ""
+      },
+      {
+        "date": "2026-11-06T19:00:00",
+        "home_team": {
+          "school_name": "Northwood",
+          "city": "Irvine",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": false
+        },
+        "away_team": {
+          "school_name": "Villa Park",
+          "city": "Villa Park",
+          "state": "CA",
+          "result_text": "",
+          "result": null,
+          "score": null,
+          "is_home": true
+        },
+        "opponent": "Villa Park",
+        "result": ""
+      }
+    ],
+    "tournaments": [
+      {
+        "tournamentId": "0f0f0f0f-1111-2222-3333-444455556666",
+        "tournamentName": "CIF Southern Section Division 6 Championship",
+        "bracketName": "Division 6",
+        "isTournamentPlayOff": true,
+        "startDate": "2026-11-06T00:00:00",
+        "endDate": "2026-11-27T00:00:00",
+        "tournamentUrl": "https://www.maxpreps.com/ca/football/26-27/division/6/"
+      }
+    ]
+  }
+}

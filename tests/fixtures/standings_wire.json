@@ -1,0 +1,43 @@
+{
+  "pageProps": {
+    "standingsData": {
+      "standingSections": [
+        {
+          "headerName": "Iota League",
+          "headerType": "league",
+          "fullStandingsLink": "https://www.maxpreps.com/ca/football/26-27/league/iota/?leagueid=30efd68f-55f0-4218-986b-88cf43a79c5d",
+          "standings": [
+            {
+              "schoolName": "Northwood",
+              "conferenceWinLossTies": "0-0",
+              "overallWinLossTies": "0-0",
+              "conferenceStandingPlacement": 1,
+              "teamCanonicalUrl": "https://www.maxpreps.com/ca/irvine/northwood-timberwolves/football/"
+            },
+            {
+              "schoolName": "Pacifica",
+              "conferenceWinLossTies": "0-0",
+              "overallWinLossTies": "0-0",
+              "conferenceStandingPlacement": 2,
+              "teamCanonicalUrl": "https://www.maxpreps.com/ca/garden-grove/pacifica-mariners/football/"
+            },
+            {
+              "schoolName": "Cypress",
+              "conferenceWinLossTies": "0-0",
+              "overallWinLossTies": "0-0",
+              "conferenceStandingPlacement": 3,
+              "teamCanonicalUrl": "https://www.maxpreps.com/ca/cypress/cypress-centurions/football/"
+            },
+            {
+              "schoolName": "Kennedy",
+              "conferenceWinLossTies": "0-0",
+              "overallWinLossTies": "0-0",
+              "conferenceStandingPlacement": 4,
+              "teamCanonicalUrl": "https://www.maxpreps.com/ca/la-palma/kennedy-fighting-irish/football/"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

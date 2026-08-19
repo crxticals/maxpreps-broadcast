@@ -1,0 +1,26 @@
+jersey,jersey_padded,name,lower_third_name,full_upper,positions,grade,height,weight,is_captain
+6,06,Kevin Phung,K. PHUNG,KEVIN PHUNG,WR,Jr.,,,False
+10,10,Bert Chubb,B. CHUBB,BERT CHUBB,WR/FS,Sr.,"6'3""",185,False
+13,13,Dillan Low,D. LOW,DILLAN LOW,K/SS,Sr.,,,False
+14,14,Caden Jacobs,C. JACOBS,CADEN JACOBS,QB,Sr.,"5'11""",155,False
+15,15,Shilo Scott,S. SCOTT,SHILO SCOTT,CB/WR,Sr.,,,False
+16,16,Platon Shevchenko,P. SHEVCHENKO,PLATON SHEVCHENKO,WR/CB,Jr.,"6'4""",225,False
+17,17,Jourdan Garcia,J. GARCIA,JOURDAN GARCIA,QB,Jr.,"5'11""",175,False
+21,21,Elliot Kwon,E. KWON,ELLIOT KWON,WR/FS,Jr.,"5'10""",165,False
+22,22,Xayn Ali,X. ALI,XAYN ALI,MLB/RB,Jr.,"6'1""",225,False
+24,24,Lj Ulmer,L. ULMER,LJ ULMER,RB,Jr.,,,False
+25,25,Ryan Del Valle,R. DEL VALLE,RYAN DEL VALLE,CB/WR,Jr.,"5'6""",145,False
+26,26,Isaiah Paez,I. PAEZ,ISAIAH PAEZ,C/TE,Jr.,,,False
+27,27,Jaxon Shanbahag,J. SHANBAHAG,JAXON SHANBAHAG,,So.,,,False
+30,30,Siddh Bhise,S. BHISE,SIDDH BHISE,,Jr.,,,False
+32,32,Pearson Giglio,P. GIGLIO,PEARSON GIGLIO,WR,Jr.,,,False
+35,35,Jace Lin,J. LIN,JACE LIN,CB,Jr.,,,False
+37,37,Michael Montoya,M. MONTOYA,MICHAEL MONTOYA,WR/CB,Sr.,,,False
+50,50,Andrew Hwang,A. HWANG,ANDREW HWANG,T/P,Sr.,"6'0""",225,False
+54,54,Jacob Harper,J. HARPER,JACOB HARPER,T/NG,Sr.,"6'2""",,False
+55,55,Kiyan Parizi,K. PARIZI,KIYAN PARIZI,C/DE,Sr.,"6'0""",205,False
+70,70,Sam Wagner,S. WAGNER,SAM WAGNER,NG/MLB,Jr.,"5'7""",180,False
+76,76,Joseph Hill,J. HILL,JOSEPH HILL,,Jr.,"6'1""",230,False
+77,77,Isaac Castillo Garcia,I. CASTILLO GARCIA,ISAAC CASTILLO GARCIA,DT/DE,Jr.,"6'1""",,False
+80,80,Tristan Santos,T. SANTOS,TRISTAN SANTOS,WR/CB,Jr.,,,False
+83,83,Jake Chen-huber,J. CHEN-HUBER,JAKE CHEN-HUBER,TE/T,Jr.,,,False

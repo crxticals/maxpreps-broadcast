@@ -1,0 +1,30 @@
+# Scorebug template mapping: AE layer name -> exported field path (live.json).
+# Re-wire freely; `maxpreps render --template scorebug` produces
+# scorebug.render.json with one value per layer, ready to apply.
+template: scorebug
+source: live
+layers:
+  "HOME ABBR": home_abbr
+  "AWAY ABBR": away_abbr
+  "HOME SCORE": home_score
+  "AWAY SCORE": away_score
+  "SCORE LINE": score_line
+  "CLOCK": clock_display
+  "PERIOD": period_display
+  "STATUS": status_upper
+  "DOWN DISTANCE": down_distance_display
+  "KICKOFF": kickoff_display
+  "HOME BG R": home_primary_r01
+  "HOME BG G": home_primary_g01
+  "HOME BG B": home_primary_b01
+  "AWAY BG R": away_primary_r01
+  "AWAY BG G": away_primary_g01
+  "AWAY BG B": away_primary_b01
+  "HOME TEXT": home_primary_text
+  "AWAY TEXT": away_primary_text
+  "HOME LOGO": home_logo_path
+  "AWAY LOGO": away_logo_path
+defaults:
+  "DOWN DISTANCE": ""
+  "HOME LOGO": ""
+  "AWAY LOGO": ""
